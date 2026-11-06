@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Tanzeem Haider</h1>
-<h3 align="center">A passionate java developer from India</h3>
+<h3 align="center">A passionate Full Stack Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanzeem289&label=Profile%20views&color=0e75b6&style=flat" alt="tanzeem289" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanzeem289" alt="tanzeem289" /></a> </p>
 
-- 🌱 I’m currently learning **some advanced java**
+- 🌱 Currently I have completed my Internship  
 
-- 💬 Ask me about **java , springboot**
+- 💬 Ask me about **javaScript
 
 - 📫 How to reach me **haidertanzeem42@gmail.com**
 
